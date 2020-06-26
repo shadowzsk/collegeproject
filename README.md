@@ -1,2 +1,0 @@
-# collegeproject
-project for college
